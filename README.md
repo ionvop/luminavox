@@ -1,2 +1,2 @@
 # luminavox
-a 2023 school project
+an early 2024 school project
